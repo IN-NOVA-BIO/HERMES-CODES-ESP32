@@ -20,6 +20,6 @@ This repository contains the base code for signal acquisition and processing. It
 - Research projects  
 
 ## 🔌 Circuit
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](images/CIRCUIT_V1.png)
 
 ## 📂 Project Structure
